@@ -1,5 +1,5 @@
 # base image
-FROM node:11
+FROM node:17
 
 # set working directory
 RUN mkdir /app
